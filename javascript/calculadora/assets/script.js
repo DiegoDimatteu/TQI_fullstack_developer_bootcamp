@@ -30,25 +30,25 @@ function calculadora (operacao, a, b) {
     }
 
     switch (operacao){
-        case 1: 
+        case operacao = 1: 
             alert(`${a} + ${b} = ${a+b}`);
             break;
-        case 2: 
+        case operacao = 2: 
             alert(`${a} - ${b} = ${a-b}`);
             break;
-        case 3: 
+        case operacao = 3: 
             alert(`${a} * ${b} = ${a*b}`);
             break;
-        case 4: 
+        case operacao = 4: 
             alert(`${a} / ${b} = ${a/b}`);
             break;
-        case 5: 
+        case operacao = 5: 
             alert(`${a} % ${b} = ${a%b}`);
             break;
-        case 6: 
+        case operacao = 6: 
             alert(`${a} % ${b} = ${Math.floor(a/b)}`);
             break;
-        case 7: 
+        case operacao = 7: 
             alert(`${a} ** ${b} = ${a**b}`);
             break;
     }
