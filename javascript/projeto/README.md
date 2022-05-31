@@ -5,4 +5,4 @@
 
 Realização de um jogo de memória utilizando `html`, `css` e `JavaScript`.
 
-[LINK PARA O JOGO](https://github.com/DiegoDimatteu/memory_game)
+[LINK PARA O REPOSITÓRIO DO JOGO](https://github.com/DiegoDimatteu/memory_game)
